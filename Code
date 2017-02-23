@@ -1,0 +1,11 @@
+## Pre-Logic Script Code
+
+def updateValue(value):
+ if value is None:
+  return ''
+ else: return value
+ 
+ 
+ 
+ ## Column
+ updateValue ( Column_Name )
